@@ -1,4 +1,4 @@
-⚽ Football Debate RAG Pipeline
+## Football Debate RAG Pipeline
 
 A complete end-to-end pipeline that converts YouTube football debate videos into a structured, RAG-ready dataset.
 
@@ -185,7 +185,3 @@ Recommended: medium (GPU, 4GB VRAM supported)
 - Web UI for querying
 
 ---
-
-📜 License
-
-MIT License
